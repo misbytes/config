@@ -1,8 +1,8 @@
 ## My Config
 
-### vim | NeoVim
-- /home/user/.vimrc | Vim
-- C:\Users\user\AppData\Local\nvim\init.vim | NeoVim
+### vim | neovim
+- vim: /home/user/.vimrc
+- neovim: C:\Users\user\AppData\Local\nvim\init.vim
 ```bash
 set number
 syntax on
