@@ -9,3 +9,10 @@ syntax on
 set background=dark
 colorscheme retrobox
 ```
+
+---
+
+### pantallas
+- chmod +x pantalla.sh
+- ./pantalla.sh
+- directorio: /home/user/pantalla.sh
